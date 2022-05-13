@@ -11,7 +11,7 @@
     </Window.Resources>
     <Grid ButtonBase.Click="Button_Click">
         <Grid.RowDefinitions >
-            <RowDefinition  Height="*"/>
+            <RowDefinition  Height="1*"/>
             <RowDefinition  Height="*"/>
             <RowDefinition  Height="*"/>
         </Grid.RowDefinitions>
